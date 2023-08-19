@@ -1,4 +1,7 @@
 ### Hi there 👋
+I like to
+- break underneath abstractions
+- build projects
 
 <!--
 **nbytr/nbytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
